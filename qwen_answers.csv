@@ -1,0 +1,711 @@
+﻿id,question,actual ans,model ans without fusion and realloc attn,model ans with fusion and attn realloc
+1,At how many units of output does the company break even?,500 units,"Based on the provided ""Breakeven Analysis Table with Revenue and Profit,"" we can determine the break-even point by finding the number of units where the **Profit/(Loss)** column is zero.
+
+The table shows the following data:
+
+- **Units of Output:** 100, 200, 300, 400, 500, 600, 700
+- **Fixed Costs:** $5,000.00
+- **Variable Costs:** $1,000.00, $2,000.00, $3,000.00, $4,000.00, $5,000.00, $6,000.00, $7,000.00
+- **Total Costs:** $6,000.00, $7,000.0","Based on the provided breakeven analysis table, we can determine the break-even point by finding the number of units where **Profit/(Loss)** is zero.
+
+The table shows the following columns:
+- **Units of Output**
+- **Fixed Costs**
+- **Variable Costs**
+- **Total Costs**
+- **Sales Revenue**
+- **Profit/(Loss)**
+
+To find the break-even point, we need to identify the number of units where the **Profit/(Loss)** column is $0.
+
+Let's examine the data row by row:
+
+- **100 units:** Profit = -$4,000.00
+- **200 units:** Profit = -$3,000.00
+- **300 units:** Profit = -$2,000.00
+- **400 units:** Profit = -$1,000.00
+- **500 units:** Profit = $0.00
+-"
+2,What is the profit or loss at 300 units of output?,"-$2,000","Based on the provided ""Breakeven Analysis Table with Revenue and Profit,"" we can determine the profit or loss at 300 units of output by following these steps:
+
+1.  **Locate the row:** Find the row corresponding to ""Units of Output"" = 300.
+2.  **Identify the relevant columns:** The columns are ""Fixed Costs,"" ""Variable Costs,"" ""Total Costs,"" ""Sales Revenue,"" and ""Profit/(Loss).""
+3.  **Read the value:** Look at the value in the ""Profit/(Loss)"" column for the 300 units row.
+
+The value in the ""Profit/(Loss)"" column for 300 units is $-2,000.00.
+
+Therefore, the profit or loss at 300 units of output is **-$2,000.00**.","Based on the provided Breakeven Analysis Table, we can determine the profit or loss at 300 units of output.
+
+Let's look at the row corresponding to 300 units:
+
+- **Units of Output:** 300
+- **Fixed Costs:** $5,000.00
+- **Variable Costs:** $3,000.00
+- **Total Costs:** $8,000.00
+- **Sales Revenue:** $6,000.00
+- **Profit/(Loss):** -$2,000.00
+
+The calculation for profit is:
+$$ \text{Profit} = \text{Sales Revenue} - \text{Total Costs} $$
+$$ \text{Profit} = \$6,000.00 - \$8,000.00 = -\$2,000.00 $$
+
+Therefore, at 3"
+3,What is the sales revenue at 600 units?,"$12,000","Based on the provided ""Breakeven Analysis Table with Revenue and Profit,"" we can find the sales revenue at 600 units by following these steps:
+
+1.  Locate the row corresponding to ""Units of Output"" = 600.
+2.  Move across this row to the column titled ""Sales Revenue"".
+3.  The value in that cell is the sales revenue at 600 units.
+
+Following this process, the sales revenue at 600 units is $12,000.00.","Based on the provided ""Breakeven Analysis Table with Revenue and Profit,"" we can determine the sales revenue at 600 units.
+
+The table shows the following information:
+- **Units of Output:** The number of units produced.
+- **Fixed Costs:** Costs that do not change with the number of units produced.
+- **Variable Costs:** Costs that vary directly with the number of units produced.
+- **Total Costs:** The sum of fixed and variable costs.
+- **Sales Revenue:** The income generated from selling the units.
+- **Profit/(Loss):** The difference between sales revenue and total costs.
+
+Let's examine the data for 600 units:
+- The **Units of Output** is 600.
+- The **Fixed Costs** are $5,000.00.
+- The **Variable Costs** are $6,000.00.
+- The **Total Costs** are $11,000.00.
+-"
+4,"In the high-risk condition, which reward type has the lowest framing score for adolescents?",Large reward,"Based on the provided bar chart, let's analyze the data for the ""High Risk"" condition and the ""Adolescent"" age group.
+
+1.  **Identify the relevant section:** The chart has two main sections: ""Low Risk"" and ""High Risk"". We are interested in the ""High Risk"" section.
+2.  **Locate the adolescents:** The ""Adolescent"" age group is found on the x-axis.
+3.  **Examine the reward types:** The legend indicates three reward types:
+    - Small Reward (white bar)
+    - Medium Reward (yellow bar)
+    - Large Reward (blue patterned bar)
+4.  **Read the framing scores:** The y-axis represents the ""Framing Score"". We need to find the lowest score among the three reward types for adolescents in the high-risk condition.
+
+Looking at the ""High Risk"" section:
+- The ""Adolescent"" group has three bars: one for Small Reward, one","Based on the provided bar chart, let's analyze the data for the ""High Risk"" condition and the ""Adolescent"" age group.
+
+1.  **Identify the relevant section:** The chart has two main sections: ""Low Risk"" and ""High Risk"". We are interested in the ""High Risk"" section.
+2.  **Locate the adolescents:** The ""Adolescent"" age group is found on the x-axis.
+3.  **Examine the reward types:** The legend indicates three reward types:
+    - Small Reward (white bar)
+    - Medium Reward (yellow bar)
+    - Large Reward (blue patterned bar)
+4.  **Read the framing scores:** The y-axis represents the ""Framing Score"". We need to find the lowest score among the three reward types for adolescents in the high-risk condition.
+
+Looking at the ""High Risk"" section:
+- The ""Adolescent"" group has three bars: one for Small Reward, one"
+5,Which age group has a higher framing score for small reward under low risk?,Young Adult,"Based on the provided bar chart, we can determine the framing score for the ""Small Reward"" condition in the ""Low Risk"" group by following these steps:
+
+1.  **Identify the ""Low Risk"" group:** This is the section of the chart on the left, labeled ""Low Risk"".
+2.  **Identify the ""Small Reward"" condition:** According to the legend, the ""Small Reward"" condition is represented by the white bars.
+3.  **Locate the relevant age group:** We are looking for the ""Adolescent"" age group, which is the first group on the x-axis.
+4.  **Read the values:** In the ""Adolescent"" age group under the ""Low Risk"" section, the white bar (Small Reward) reaches a value of approximately 0.2 on the ""Framing Score"" y-axis.
+
+Therefore, the age group that has a higher framing score for small reward under low risk is the **Adoles","Based on the provided bar chart, we can determine the framing score for the ""Small Reward"" condition in the ""Low Risk"" group by following these steps:
+
+1.  **Identify the ""Low Risk"" group:** This is the section of the chart on the left, labeled ""Low Risk"".
+2.  **Identify the ""Small Reward"" condition:** According to the legend, the ""Small Reward"" condition is represented by the white bars.
+3.  **Locate the relevant age group:** We are looking for the ""Adolescent"" age group, which is the first group on the x-axis.
+4.  **Read the values:** In the ""Adolescent"" age group under the ""Low Risk"" section, the white bar (Small Reward) reaches a value of approximately 0.2 on the ""Framing Score"" y-axis.
+
+Therefore, the age group that has a higher framing score for small reward under low risk is the **Adoles"
+6,"Under low risk, which reward type has the highest framing score for young adults?",Small reward,"Based on the provided bar chart, we can analyze the ""Framing Score"" for young adults under the ""Low Risk"" category.
+
+1.  **Identify the relevant section:** The chart is divided into ""Low Risk"" and ""High Risk"" groups. We are focusing on the ""Low Risk"" section.
+2.  **Locate the age group:** The age group ""Young Adult"" is located on the x-axis.
+3.  **Examine the bars for ""Young Adult"":** In the ""Low Risk"" section, there are three bars corresponding to the different reward types:
+    -   **Small Reward:** The white bar.
+    -   **Medium Reward:** The yellow bar.
+    -   **Large Reward:** The blue bar with a pattern.
+4.  **Compare the scores:** Looking at the y-axis (Framing Score), the values are:
+    -   Small Reward: approximately 0.3
+    -   Medium Reward: approximately","Based on the provided bar chart, we can analyze the ""Framing Score"" for young adults under the ""Low Risk"" category.
+
+1.  **Identify the relevant section:** The chart is divided into ""Low Risk"" and ""High Risk"" groups. We are focusing on the ""Low Risk"" section.
+2.  **Locate the age group:** The age group ""Young Adult"" is located on the x-axis.
+3.  **Examine the bars for ""Young Adult"":** In the ""Low Risk"" section, there are three bars corresponding to the different reward types:
+    -   **Small Reward:** The white bar.
+    -   **Medium Reward:** The yellow bar.
+    -   **Large Reward:** The blue bar with a pattern.
+4.  **Compare the scores:** Looking at the y-axis (Framing Score), the values are:
+    -   Small Reward: approximately 0.3
+    -   Medium Reward: approximately"
+7,How many push-ups were done on Wednesday?,5,"Based on the line graph provided, we can determine the number of push-ups done on Wednesday by following these steps:
+
+1.  **Locate the day on the x-axis:** Find ""Wednesday"" on the horizontal axis, which is labeled ""DAYS"".
+2.  **Identify the corresponding data point:** Look at the blue line, which represents ""Push-ups"", and find the point where it intersects the ""Wednesday"" label.
+3.  **Read the value from the y-axis:** The value on the vertical axis (labeled ""NUMBER OF PUSH-UPS"") at that point is 5.
+
+Therefore, 5 push-ups were done on Wednesday.","Based on the line graph provided, we can determine the number of push-ups done on Wednesday by following these steps:
+
+1.  **Locate the day on the x-axis:** Find ""Wednesday"" on the horizontal axis, which is labeled ""DAYS"".
+2.  **Identify the corresponding data point:** Look at the blue line, which represents ""Push-ups"", and find the point where it intersects the ""Wednesday"" label.
+3.  **Read the value from the y-axis:** The value on the vertical axis (labeled ""NUMBER OF PUSH-UPS"") at that point is 5.
+
+Therefore, 5 push-ups were done on Wednesday."
+8,On which day were the push-ups the lowest?,Friday,"Based on the line graph provided, we can determine the day with the lowest number of push-ups by examining the data points.
+
+- The vertical axis represents the ""NUMBER OF PUSH-UPS"".
+- The horizontal axis represents the ""DAYS"" of the week, from Sunday to Saturday.
+
+Let's look at the values for each day:
+- **Sunday:** 25 push-ups
+- **Monday:** 15 push-ups
+- **Tuesday:** 25 push-ups
+- **Wednesday:** 5 push-ups
+- **Thursday:** 10 push-ups
+- **Friday:** 0 push-ups
+- **Saturday:** 20 push-ups
+
+The lowest value on the graph is 0, which occurs on Friday.
+
+Therefore, the day when the push-ups were the lowest was **Friday**.","Based on the line graph provided, we can determine the day with the lowest number of push-ups by examining the data points.
+
+- The vertical axis represents the ""NUMBER OF PUSH-UPS"".
+- The horizontal axis represents the ""DAYS"" of the week, from Sunday to Saturday.
+
+Let's look at the values for each day:
+- **Sunday:** 25 push-ups
+- **Monday:** 15 push-ups
+- **Tuesday:** 25 push-ups
+- **Wednesday:** 5 push-ups
+- **Thursday:** 10 push-ups
+- **Friday:** 0 push-ups
+- **Saturday:** 20 push-ups
+
+The lowest value on the graph is 0, which occurs on Friday.
+
+Therefore, the day when the push-ups were the lowest was **Friday**."
+9,How many push-ups were done on Saturday?,20,"Based on the line graph provided, we can determine the number of push-ups done on Saturday by following these steps:
+
+1.  **Locate the day on the x-axis:** Find ""Saturday"" on the horizontal axis (x-axis).
+2.  **Identify the corresponding data point:** Look at the blue line that represents ""Push-ups"" and find the point where it intersects the ""Saturday"" label.
+3.  **Read the value from the y-axis:** The vertical axis (y-axis) is labeled ""NUMBER OF PUSH-UPS"". The value at the point for Saturday is shown as 20.
+
+Therefore, 20 push-ups were done on Saturday.","Based on the line graph provided, we can determine the number of push-ups done on Saturday by following these steps:
+
+1.  **Locate the day on the x-axis:** Find ""Saturday"" on the horizontal axis (x-axis).
+2.  **Identify the corresponding data point:** Look at the blue line that represents ""Push-ups"" and find the point where it intersects the ""Saturday"" label.
+3.  **Read the value from the y-axis:** The vertical axis (y-axis) is labeled ""NUMBER OF PUSH-UPS"". The value at the point for Saturday is shown as 20.
+
+Therefore, 20 push-ups were done on Saturday."
+10,What is the transmittance in Trial #2 at 12% salt concentration?,117.18,"To find the transmittance in Trial #2 at 12% salt concentration, we need to look at the provided table.
+
+1. Locate the row for **Salt Concentration (%)** = 12.
+2. Move across to the column labeled **Trial #2**.
+3. The value at the intersection of the 12% row and the Trial #2 column is **117.18**.
+
+Therefore, the transmittance in Trial #2 at 12% salt concentration is **117.18%**.","To find the transmittance in Trial #2 at 12% salt concentration, we need to look at the provided table.
+
+1. Locate the row for **Salt Concentration (%)** = 12.
+2. Move across to the column labeled **Trial #2**.
+3. The value at the intersection of the 12% row and the Trial #2 column is **117.18**.
+
+Therefore, the transmittance in Trial #2 at 12% salt concentration is **117.18%**."
+11,"At 6% salt concentration, what is the transmittance in Trial #1?",88.39,"To find the transmittance in Trial #1 at a 6% salt concentration, we can look at the provided table.
+
+- The row for **6% salt concentration** is the third row from the top.
+- The column for **Trial #1** is the first column from the left.
+
+Looking at the intersection of this row and column, the value is **88.39**.
+
+Therefore, the transmittance in Trial #1 at 6% salt concentration is **88.39%**.","To find the transmittance in Trial #1 at a 6% salt concentration, we can look at the provided table.
+
+- The row for **6% salt concentration** is the third row from the top.
+- The column for **Trial #1** is the first column from the left.
+
+Looking at the intersection of this row and column, the value is **88.39**.
+
+Therefore, the transmittance in Trial #1 at 6% salt concentration is **88.39%**."
+12,Which salt concentration has a Trial #3 value of 68.29?,9%,"To find the salt concentration that has a Trial #3 value of 68.29, we can follow these steps:
+
+1. Look at the table provided.
+2. Find the column labeled ""Transmittance (%T)"" and the row for ""Trial #3"".
+3. The value in the ""Trial #3"" column for the ""Salt Concentration (%)"" row is 68.29.
+4. Now, look at the ""Salt Concentration (%)"" column to find the corresponding salt concentration.
+
+From the table:
+- The row with ""Trial #3"" value of 68.29 is the 6th row (since the first row is 0%).
+- The salt concentration in that row is 9%.
+
+Therefore, the salt concentration that has a Trial #3 value of 68.29 is 9%.","To find the salt concentration that has a Trial #3 value of 68.29, we can follow these steps:
+
+1. Look at the table provided.
+2. Find the column labeled ""Transmittance (%T)"" and the row for ""Trial #3"".
+3. The value in the ""Trial #3"" column for the ""Salt Concentration (%)"" row is 68.29.
+4. Now, look at the ""Salt Concentration (%)"" column to find the corresponding salt concentration.
+
+From the table:
+- The row with ""Trial #3"" value of 68.29 is the 6th row (since the first row is 0%).
+- The salt concentration in that row is 9%.
+
+Therefore, the salt concentration that has a Trial #3 value of 68.29 is 9%."
+13,What were the sales of bananas in 2018?,31000,"Based on the provided image, we can find the sales of bananas in 2018 by looking at the ""Sales 2018"" table.
+
+- In the ""Sales 2018"" section, the row for ""Bananas"" under the ""Type"" column shows a value of 31000.
+- This value is in the ""Sales 2018"" column.
+
+Therefore, the sales of bananas in 2018 were 31,000.","Based on the provided image, we can find the sales of bananas in 2018 by looking at the ""Sales 2018"" table.
+
+- In the ""Sales 2018"" section, the row for ""Bananas"" under the ""Type"" column shows a value of 31000.
+- This value is in the ""Sales 2018"" column.
+
+Therefore, the sales of bananas in 2018 were 31,000."
+14,Which category had tomatoes with sales of 20000 in 2018?,Vegetables,"Based on the provided image, we can analyze the data for the year 2018.
+
+- The table on the right is titled ""Sales 2018"".
+- We need to find the row where the ""Category"" is ""Vegetables"" and the ""Sales 2018"" value is 20000.
+- Looking at the ""Sales 2018"" column, we can see the following entries:
+  - Fruit: 25000
+  - Fruit: 21000
+  - Vegetables: 13000
+  - Vegetables: 20000
+  - Vegetables: 17000
+
+The row with a sales value of 20000 corresponds to the ""Vegetables"" category.
+
+Therefore, the category that had tomatoes with sales of 20000 in 2018 is **Ve","Based on the provided image, we can analyze the data for the year 2018.
+
+- The table on the right is titled ""Sales 2018"".
+- We need to find the row where the ""Category"" is ""Vegetables"" and the ""Sales 2018"" value is 20000.
+- Looking at the ""Sales 2018"" column, we can see the following entries:
+  - Fruit: 25000
+  - Fruit: 21000
+  - Vegetables: 13000
+  - Vegetables: 20000
+  - Vegetables: 17000
+
+The row with a sales value of 20000 corresponds to the ""Vegetables"" category.
+
+Therefore, the category that had tomatoes with sales of 20000 in 2018 is **Ve"
+15,What were the sales of apples in 2017?,19000,"Based on the provided image, we can find the sales of apples in 2017 by looking at the table titled ""Sales 2017"".
+
+- In the ""Sales 2017"" section, the row for the ""Type"" ""Apples"" shows the corresponding ""Sales 2017"" value.
+- The value listed in the ""Sales 2017"" column for the ""Apples"" row is 19000.
+
+Therefore, the sales of apples in 2017 were 19,000.","Based on the provided image, we can find the sales of apples in 2017 by looking at the table titled ""Sales 2017"".
+
+- In the ""Sales 2017"" section, the row for the ""Type"" ""Apples"" shows the corresponding ""Sales 2017"" value.
+- The value listed in the ""Sales 2017"" column for the ""Apples"" row is 19000.
+
+Therefore, the sales of apples in 2017 were 19,000."
+16,What is the underlying revenue shown for North America?,"$15,694M","Based on the provided image, the underlying revenue for North America is shown as:
+
+- **$15,694M**
+
+This is listed in the ""Underlying Revenue"" section on the left side of the chart.","Based on the provided image, the underlying revenue for North America is shown as:
+
+- **$15,694M**
+
+This is listed in the ""Underlying Revenue"" section on the left side of the chart."
+17,Which segment has the highest percentage share?,Business & Industry,"Based on the provided ""Regional Review: North America"" infographic, we can determine which segment has the highest percentage share by examining the bar chart.
+
+The bar chart displays the following segments and their corresponding percentages:
+
+-   **Business & Industry:** 32%
+-   **Healthcare & Seniors:** 28%
+-   **Education:** 22%
+-   **Sports & Leisure:** 16%
+-   **Offshore & Remote:** 2%
+
+By comparing these values, the highest percentage is 32%, which corresponds to the **Business & Industry** segment.
+
+---
+
+The segment with the highest percentage share is **Business & Industry**.","Based on the provided ""Regional Review: North America"" infographic, we can determine which segment has the highest percentage share by examining the bar chart.
+
+The bar chart displays the following segments and their corresponding percentages:
+
+-   **Business & Industry:** 32%
+-   **Healthcare & Seniors:** 28%
+-   **Education:** 22%
+-   **Sports & Leisure:** 16%
+-   **Offshore & Remote:** 2%
+
+By comparing these values, the highest percentage is 32%, which corresponds to the **Business & Industry** segment.
+
+---
+
+The segment with the highest percentage share is **Business & Industry**."
+18,What is the underlying operating margin?,8.2%,"Based on the provided ""Regional Review: North America"" infographic from Wesley Foods International, the underlying operating margin is listed as **8.2%**.
+
+This information is located in the bottom-left section of the image, directly below the ""Underlying Operating Profit"" figure.","Based on the information provided in the image, the underlying operating margin is **8.2%**.
+
+This is stated in the ""Underlying Operating Margin"" section on the left side of the chart, which is highlighted in green. The chart also shows that the underlying operating profit is $1,290M and the underlying revenue is $15,694M, which are used to calculate the margin."
+19,What is the revenue in March?,"₹17,000.00","Based on the provided spreadsheet, the revenue for March is ₹18,000.00.
+
+This value is located in the cell under the ""Revenue"" column, in the row corresponding to ""March"".","Based on the data provided in the spreadsheet, the revenue in March is ₹18,000.00."
+20,How many shipments were made to Kanpur in June?,650,"Based on the provided spreadsheet, we can find the number of shipments to Kanpur in June by following these steps:
+
+1.  **Locate the correct row:** Find the row for the month of **June**. This is in row 8.
+2.  **Locate the correct column:** Find the column for **Kanpur**. This is the third column in the ""Shipments"" section, labeled ""Kanpur"".
+3.  **Find the value:** Look at the intersection of the row for June (row 8) and the Kanpur column (column C). The value in cell C8 is 550.
+
+Therefore, 550 shipments were made to Kanpur in June.","Based on the provided spreadsheet, we can determine the number of shipments to Kanpur in June by following these steps:
+
+1.  **Locate the correct row:** Find the row for the month of **June**. This is in row 8 of the table.
+2.  **Locate the correct column:** Find the column for **Kanpur**. This is the third column under the ""Shipments"" heading.
+3.  **Find the value:** Look at the intersection of the row for June (row 8) and the Kanpur column (column C). The value in this cell is **550**.
+
+Therefore, the number of shipments made to Kanpur in June was 550."
+21,Which month has the highest revenue?,December,"Based on the data provided in the spreadsheet, we can determine which month has the highest revenue by examining the ""Revenue"" column.
+
+The revenue values for each month are as follows:
+- January: ₹15,000.00
+- February: ₹16,000.00
+- March: ₹17,000.00
+- April: ₹18,000.00
+- May: ₹19,000.00
+- June: ₹20,000.00
+- July: ₹21,000.00
+- August: ₹22,000.00
+- September: ₹23,000.00
+- October: ₹24,000.00
+- November: ₹25,000.00
+- December: ₹26,000","Based on the data provided in the spreadsheet, we can determine the month with the highest revenue by examining the ""Revenue"" column.
+
+Here is the revenue for each month:
+
+- January: ₹15,000.00
+- February: ₹16,000.00
+- March: ₹17,000.00
+- April: ₹18,000.00
+- May: ₹19,000.00
+- June: ₹20,000.00
+- July: ₹21,000.00
+- August: ₹22,000.00
+- September: ₹23,000.00
+- October: ₹24,000.00
+- November: ₹25,000.00
+- December: ₹26,000.0"
+22,What percentage of respondents in the United States said they would watch the World Cup?,34%,"Based on the bar chart titled ""Americans Not Likely to Follow FIFA World Cup at Home,"" we can find the percentage of respondents in the United States who said they would watch the World Cup.
+
+The chart displays the share of respondents in three selected countries who plan to watch, attend, or both for the FIFA World Cup 2026. The data for the United States is shown on the right side of the chart.
+
+- The green bar represents the percentage of respondents who plan to **watch** the event.
+- The purple bar represents the percentage who plan to **attend**.
+- The yellow bar represents the percentage who plan to **watch and attend**.
+
+For the United States:
+- The green bar (Watch) has the value **34**.
+- The purple bar (Attend) has the value **7**.
+- The yellow bar (Watch & attend) has the value **8**.
+
+Therefore, the percentage of respondents in the United States who said they would watch the World","Based on the bar chart titled ""Americans Not Likely to Follow FIFA World Cup at Home,"" we can find the percentage of respondents in the United States who said they would watch the World Cup.
+
+The chart displays the share of respondents in three selected countries who plan to watch, attend, or both for the FIFA World Cup 2026. The data for the United States is shown on the right side of the chart.
+
+- The green bar represents the percentage of respondents who plan to **watch** the event.
+- The purple bar represents the percentage who plan to **attend**.
+- The yellow bar represents the percentage who plan to **watch and attend**.
+
+For the United States:
+- The green bar (Watch) has the value **34**.
+- The purple bar (Attend) has the value **7**.
+- The yellow bar (Watch & attend) has the value **8**.
+
+Therefore, the percentage of respondents in the United States who said they would watch the World"
+23,Which country has the highest percentage for watching the World Cup?,United Kingdom,"Based on the bar chart titled ""Americans Not Likely to Follow FIFA World Cup at Home,"" we can determine which country has the highest percentage for watching the World Cup.
+
+The chart displays the share of respondents in three countries who plan to watch or attend the FIFA World Cup 2026. The data is broken down into three categories:
+- **Watch**: Green bar
+- **Attend**: Purple bar
+- **Watch & attend**: Yellow bar
+
+Let's examine the data for each country:
+
+- **United Kingdom**: The green bar (Watch) is 59%.
+- **Germany**: The green bar (Watch) is 51%.
+- **United States**: The green bar (Watch) is 34%.
+
+Comparing these values, 59% is the highest.
+
+Therefore, the country with the highest percentage for watching the World Cup is the **United Kingdom**.","Based on the bar chart titled ""Americans Not Likely to Follow FIFA World Cup at Home,"" we can determine which country has the highest percentage for watching the World Cup.
+
+The chart displays the share of respondents in three countries who plan to watch or attend the FIFA World Cup 2026. The data is broken down into three categories:
+- **Watch**: Green bar
+- **Attend**: Purple bar
+- **Watch & attend**: Yellow bar
+
+Let's examine the data for each country:
+
+- **United Kingdom**: The green bar (Watch) is 59%.
+- **Germany**: The green bar (Watch) is 51%.
+- **United States**: The green bar (Watch) is 34%.
+
+Comparing these values, 59% is the highest.
+
+Therefore, the country with the highest percentage for watching the World Cup is the **United Kingdom**."
+24,What percentage of respondents in Germany chose to attend the event?,4%,"Based on the bar chart provided, we can determine the percentage of respondents in Germany who chose to attend the event.
+
+The chart shows the share of respondents in three selected countries who plan to watch, attend, or both for the FIFA World Cup 2026. The data for Germany is presented as follows:
+
+- **Watch**: 51%
+- **Attend**: 4%
+- **Watch & attend**: 4%
+
+The legend indicates that the purple bar represents the ""Attend"" category.
+
+Therefore, the percentage of respondents in Germany who chose to attend the event is **4%**.","Based on the bar chart provided, we can determine the attendance rate for Germany.
+
+The chart shows the share of respondents in three countries who plan to watch, attend, or both for the FIFA World Cup 2026.
+
+-   **United Kingdom:** 59% watch, 5% attend, 7% watch & attend.
+-   **Germany:** 51% watch, 4% attend, 4% watch & attend.
+-   **United States:** 34% watch, 7% attend, 8% watch & attend.
+
+The question asks for the percentage of respondents in Germany who chose to attend the event. According to the chart, this is represented by the purple bar.
+
+For Germany, the attendance rate is 4%.
+
+---
+The percentage of respondents in Germany who chose to attend the event is **4%**."
+25,In which year was John F. Kennedy assassinated?,1963,"Based on the information provided in the image, John F. Kennedy was assassinated in the year **1963**.
+
+This is indicated in the image by the text ""John F. Kennedy 1963"" directly below his portrait.","Based on the information provided in the image and general historical knowledge, John F. Kennedy was assassinated in the year **1963**.
+
+The image you provided lists John F. Kennedy as being assassinated in 1963. This is consistent with the historical record, where he was shot and killed on November 22, 1963, in Dallas, Texas."
+26,Which leader was assassinated in 2007?,Benazir Bhutto,"Based on the image provided, the leader who was assassinated in 2007 is **Benazir Bhutto**.
+
+The image is titled ""ICONIC LEADERS WHO WERE ASSASSINATED"" and displays a grid of portraits of various leaders. The row corresponding to the year 2007 shows the following:
+- **Benazir Bhutto** with the year **2007** listed below her portrait.
+
+Therefore, the leader assassinated in 2007 is Benazir Bhutto.","Based on the image provided, the leader who was assassinated in 2007 is **Benazir Bhutto**.
+
+The image is titled ""ICONIC LEADERS WHO WERE ASSASSINATED"" and displays a grid of portraits of various leaders. The row corresponding to the year 2007 shows the following:
+- **Benazir Bhutto** with the year **2007** listed below her portrait.
+
+Therefore, the leader assassinated in 2007 is Benazir Bhutto."
+27,Who was assassinated in 1984?,Indira Gandhi,"Based on the image provided, the person assassinated in 1984 was **Indira Gandhi**.
+
+The image is titled ""ICONIC LEADERS WHO WERE ASSASSINATED"" and lists several leaders with the year of their assassination. The entry for 1984 is:
+- **Indira Gandhi**","Based on the image provided, the person assassinated in 1984 was **Indira Gandhi**.
+
+The image is titled ""ICONIC LEADERS WHO WERE ASSASSINATED"" and lists several leaders with the year of their assassination. The entry for 1984 is:
+- **Indira Gandhi**"
+28,Who is listed as the richest woman in the chart?,Alice Walton,"Based on the chart titled ""THE WORLD'S RICHEST WOMEN"" as of 2.19, the richest woman is listed at the top of the list.
+
+The person listed as the richest woman is **Alice Walton**.
+
+She is ranked first with a net worth of **$132.5 billion**.","Based on the chart titled ""THE WORLD'S RICHEST WOMEN"" as of 2.19, the richest woman is listed at the top of the list.
+
+The person listed as the richest woman is **Alice Walton**.
+
+She is ranked first with a net worth of **$132.5 billion**."
+29,What is the net worth of Julia Koch & Family?,$81.1B,"Based on the provided image, ""The World's Richest Women"" list, the net worth of Julia Koch & Family is $81.1 billion.
+
+This information is located in the list under the ""BOARDROOM"" section, which is the first column of the chart. The entry for Julia Koch & Family is ranked 3rd.","Based on the provided image, the net worth of Julia Koch & Family is $81.1 billion.
+
+This is listed as the 3rd highest on the chart, which is the 3rd position from the top."
+30,What is the net worth of Mackenzie Scott?,$28.1B,"Based on the provided image, ""The World's Richest Women"" list, the net worth of Mackenzie Scott is $28.1 billion.
+
+This information is located in the row for 16th place, which is listed as:
+- **16. MACKENZIE SCOTT**
+- **$28.1B**","Based on the provided image, the net worth of Mackenzie Scott is $28.1 billion.
+
+This is listed in the chart as:
+- 16. MACKENZIE SCOTT
+- $28.1B"
+31,Which restaurant has the highest total cost?,shana thai,"Based on the provided chart, we can determine which restaurant has the highest total cost by examining the ""Total Cost"" section of the legend and the corresponding slices of the donut chart.
+
+The legend at the bottom of the image indicates:
+- The gray circle represents ""Total Cost""
+- The light blue circle represents ""Total Rating""
+
+The chart is titled ""Total Cost, Total Rating by Restaurant"". The largest slice of the donut chart corresponds to the restaurant with the highest total cost.
+
+Looking at the chart:
+- The largest slice, colored red, is labeled ""shana thai - 186 (25.3%)"". The number 186 is the total cost for this restaurant.
+
+Therefore, the restaurant with the highest total cost is **shana thai**.","Based on the provided chart, we can determine which restaurant has the highest total cost by examining the ""Total Cost"" data.
+
+The chart is a donut chart that displays the ""Total Cost"" and ""Total Rating"" for various restaurants. The legend at the bottom clarifies that the gray circles represent the ""Total Cost"".
+
+Let's look at the ""Total Cost"" values for each restaurant listed in the chart:
+
+-   **Chef Xiu:** 108
+-   **Dosa France:** 32
+-   **Curry Up Now (Palo Alto):** 47.8
+-   **Lucky Chinese Bistro:** 19.9
+-   **Fu Lam Mum:** 69.7
+-   **Sajji Street Eats (Palo Alto):** 11
+-   **Shana Thai:** 186
+-   **Kori:** 12
+-   **Lyfe Kitchen"
+32,What is the total cost value for 'dosa'?,70,"Based on the provided chart, we can determine the total cost for 'dosa' by following these steps:
+
+1.  **Locate the restaurant:** Find the segment labeled ""dosa"" on the chart. It is the dark blue section on the right side of the ring.
+2.  **Identify the legend:** The legend at the bottom of the chart explains the color coding. The dark blue color corresponds to the ""Total Cost"" category.
+3.  **Read the value:** The number associated with the ""dosa"" segment is 70.
+
+Therefore, the total cost value for 'dosa' is 70.","Based on the provided chart, we can determine the total cost for ""dosa"" by examining the data presented.
+
+1.  **Locate the ""dosa"" segment:** Find the slice of the donut chart labeled ""dosa"".
+2.  **Identify the value:** The chart shows the value for ""dosa"" as 70.
+3.  **Check the cost threshold:** The question states that the total cost for ""dosa"" is below 50. However, the value shown in the chart is 70, which is not below 50.
+
+Therefore, the total cost for ""dosa"" as shown in the chart is 70."
+33,Which restaurant has a total cost of 108?,chef xiu,"Based on the provided chart, we can determine which restaurant has a total cost of 108 by examining the legend and the data.
+
+- The legend at the bottom of the chart indicates that the gray circle represents the ""Total Cost"".
+- The chart is titled ""Total Cost, Total Rating by Restaurant"".
+- We need to find the restaurant whose ""Total Cost"" is 108.
+
+Looking at the chart, the slice labeled ""chef xiu"" has the following information:
+- **Total Cost:** 108
+- **Total Rating:** 108
+
+Therefore, the restaurant with a total cost of 108 is **chef xiu**.","Based on the provided chart, we can determine which restaurant has a total cost of 108 by examining the data.
+
+The chart is a donut chart that displays ""Total Cost, Total Rating by Restaurant"". The legend indicates that the gray circle represents the ""Total Cost"" and the ""Total Rating"" is represented by the other colors.
+
+Let's look at the data for each restaurant:
+
+- **chef xiu**: The chart shows a segment labeled ""chef xiu - 108 (14.7%)"". The number 108 is the total cost.
+- **douce france**: The chart shows ""douce france - 32 (4.34%)"", so the total cost is 32.
+- **curry up now (palo alto)**: The chart shows ""curry up now (palo alto) - 47.8 (6.49%)"", so the total cost is 47.8.
+"
+34,"In the user engagement chart, how many days correspond to 3K users?",8,"Based on the ""User Engagement (August 2029)"" bar chart, we can determine the number of days corresponding to 3K users by looking at the x-axis and finding the bar labeled ""3K"".
+
+- The x-axis represents the ""Number of Users"".
+- The y-axis represents the ""Days"".
+- The bar for ""3K"" users is the third bar from the left.
+- The value on top of this bar is ""8"".
+
+Therefore, 8 days correspond to 3K users.","Based on the ""User Engagement (August 2029)"" bar chart, we can determine the number of days corresponding to 3K users by looking at the x-axis and finding the bar labeled ""3K"".
+
+- The x-axis represents the ""Number of Users"".
+- The y-axis represents the ""Days"".
+- The bar for ""3K"" users is the third bar from the left.
+- The value on top of this bar is ""8"".
+
+Therefore, 8 days correspond to 3K users."
+35,Which age group has the highest number of users?,28,"Based on the ""Distribution of Users by Age"" chart in the report, we can determine which age group has the highest number of users.
+
+The chart shows the following distribution:
+- Age 18-23: 10 users
+- Age 23-28: 5 users
+- Age 28-33: 13 users
+- Age 33-38: 12 users
+- Age 38-43: 7 users
+- Age 43-48: 3 users
+
+By comparing these values, the age group with the highest number of users is **28-33 years**.
+
+The answer is **28-33 years**.","Based on the provided ""Distribution of Users by Age"" chart, the age group with the highest number of users is the **28-33** years range.
+
+Here is a breakdown of the data from the chart:
+- **18-23 years**: 10 users
+- **23-28 years**: 5 users
+- **28-33 years**: 13 users
+- **33-38 years**: 12 users
+- **38-43 years**: 7 users
+- **43-48 years**: 3 users
+
+The age group **28-33** years has the highest number of users, with 13 users."
+36,How many users spent 5 hours engaged?,17,"Based on the provided ""Monthly Social Media Engagement Report,"" we can find the answer by examining the chart titled ""Hours Users Spent Engaged.""
+
+This chart is a bar graph that shows the distribution of the number of users who spent a certain number of hours engaged on the platform.
+
+- The horizontal axis (x-axis) represents the number of hours users spent engaged.
+- The vertical axis (y-axis) represents the number of users.
+
+To find the number of users who spent 5 hours engaged, we look at the bar corresponding to ""5"" on the x-axis.
+
+The bar for 5 hours has a value of 12 on the y-axis.
+
+Therefore, 12 users spent 5 hours engaged.","Based on the provided ""Monthly Social Media Engagement Report,"" we can find the answer by examining the chart titled ""Hours Users Spent Engaged.""
+
+This chart is a bar graph that shows the distribution of the number of users who spent a certain number of hours engaged on the platform.
+
+- The horizontal axis (x-axis) represents the number of hours users spent engaged.
+- The vertical axis (y-axis) represents the number of users.
+
+To find the number of users who spent 5 hours engaged, we look at the bar corresponding to ""5"" on the x-axis.
+
+The bar for 5 hours has a value of 12 on the y-axis.
+
+Therefore, 12 users spent 5 hours engaged."
+37,What is the city listed for 'Tokyo Traders'?,Tokyo,"Based on the provided image of the spreadsheet, the city listed for 'Tokyo Traders' is **Tokyo**.","Based on the table provided in the image, the city listed for 'Tokyo Traders' is **Oviedo**.
+
+The row for 'Tokyo Traders' shows the following information:
+- Supplier ID: 4
+- Company Name: Tokyo Traders
+- Contact Name: Yoshi Nagase
+- Address: 9-8 Sekimai Musashino-shi
+- City: Oviedo
+- Country: Japan
+
+Therefore, the city listed for 'Tokyo Traders' is Oviedo."
+38,Which company has the contact name 'Peter Wilson'?,"Specialty Biscuits, Ltd.","Based on the provided image of the spreadsheet, we can find the company with the contact name 'Peter Wilson' by following these steps:
+
+1.  **Locate the 'Contact Name' column:** This is the fourth column from the left.
+2.  **Scan the 'Contact Name' column:** Look for the name 'Peter Wilson'.
+3.  **Identify the corresponding company:** The row where 'Peter Wilson' is listed has the 'Company Name' in the adjacent column.
+
+Following this process, we find that the company with the contact name 'Peter Wilson' is **Specialty Biscuits, Ltd.**","Based on the provided dataset, we can determine which company has the contact name 'Peter Wilson' by examining the 'Contact Name' column.
+
+- The 'Contact Name' column lists the names of the individuals associated with each supplier.
+- We need to find the row where the 'Contact Name' is 'Peter Wilson'.
+
+Looking at the table:
+- Row 8: The contact name is 'Peter Wilson', and the corresponding company name is 'Pavlova, Ltd.'.
+
+Therefore, the company associated with the contact name 'Peter Wilson' is **Pavlova, Ltd.**"
+39,What is the country for 'PB Knäckebröd AB'?,Sweden,"Based on the table provided in the image, the country for 'PB Knäckebröd AB' is Sweden.","Based on the table provided in the image, the country for **PB Knäckebröd AB** is **Sweden**.
+
+The row for PB Knäckebröd AB is the 10th row in the table, and it is listed as:
+- Supplier ID: 10
+- Company Name: PB Knäckebröd AB
+- Contact Name: Lars Peterson
+- Address: Kaloadagatan 13
+- City: Göteborg
+- Country: Sweden
+
+Therefore, the country for PB Knäckebröd AB is Sweden."
+40,Which year it was build ?,1632,The Taj Mahal was built in the year 1632.,The Taj Mahal was built in the year 1632.
+41,Who built this monument ?,Shah Jahan,"The monument shown in the image is the Taj Mahal, a mausoleum located in Agra, India. It was built by the Mughal Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, who died during childbirth.
+
+The Taj Mahal was constructed between 1632 and 1648, and is considered one of the most iconic examples of Mughal architecture. It is a masterpiece of white marble and is renowned for its intricate carvings, symmetrical design, and the beautiful gardens surrounding it.
+
+The Taj Mahal is a UNESCO World Heritage Site and is one of the most visited monuments in the world.","The monument shown in the image is the Taj Mahal, a mausoleum located in Agra, India. It was built by the Mughal Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, who died during childbirth.
+
+The Taj Mahal was constructed between 1632 and 1648, and is considered one of the most iconic examples of Mughal architecture. It is a masterpiece of white marble and is renowned for its intricate carvings, symmetrical design, and the beautiful gardens surrounding it.
+
+The Taj Mahal is a UNESCO World Heritage Site and is one of the most visited monuments in the world."
+42,When the monument was built ?,1906,"The Victoria Memorial in Kolkata was built between 1870 and 1880. It was constructed to commemorate the visit of Queen Victoria to India and to honor the British Raj's presence in the region. The building is a significant example of Indo-Saracenic architecture, blending elements of Indian and European styles.","Based on the information provided, the monument in the image is the **Victoria Memorial** in Kolkata, India.
+
+The statement is correct in its core idea: the Victoria Memorial was indeed built in 1906 by the British in memory of Queen Victoria.
+
+However, there is a crucial detail to clarify: the **Victoria Memorial** is not a single building but a **monument** that is part of a larger complex. The main structure, the central dome, was completed in **1906**, but the entire complex was constructed over a longer period.
+
+Here are the key details:
+
+- **Construction Period**: The construction of the Victoria Memorial began in **1897** and was completed in **1906**.
+- **Architect**: The memorial was designed by the British architect **Sir Edwin Lutyens**.
+- **Purpose**: It was built as a tribute to Queen Victoria, who was the monarch of the United Kingdom and the British Empire at the time"
+43,Who built this monument ?,British,"The monument shown in the image is the **Victoria Memorial**, a grand building located in **Calcutta (now Kolkata), India**.
+
+It was built by **Queen Victoria** of the United Kingdom. The memorial was constructed in the 19th century as a tribute to her and to honor the British Empire's influence in India. The construction was completed in 1878, and it is one of the most prominent landmarks in the city.","The monument you're referring to is the **Victoria Memorial**, a grand building located in **Calcutta (now Kolkata), India**.
+
+It was **built in 1906** by the British, and it was constructed in memory of **Queen Victoria**, the Queen of the United Kingdom and the Empress of India.
+
+The **Victoria Memorial** is a **monument** dedicated to Queen Victoria, and it is a **symbol of British colonial rule** in India. It was designed by the British architect **Sir Edwin Lutyens** and is a **fine example of Indo-Saracenic architecture**.
+
+The building is located in the **Victoria Memorial Gardens**, and it is a **popular tourist attraction** in Kolkata.
+
+So, to answer your question: The **Victoria Memorial** was built by the **British** in memory of **Queen Victoria**, and it was designed by **Sir Edwin Lutyens**."
+44,In memory of whom this monument was built ?,Queen Victoria,"The monument shown in the image is the **Victoria Memorial**, a grand building located in **Calcutta (now Kolkata), India**. It was built in memory of **Queen Victoria**, the Queen of the United Kingdom.
+
+The Victoria Memorial was constructed in the 19th century as a tribute to Queen Victoria, who was the reigning monarch of the United Kingdom at the time. The building was designed by the renowned architect **Sir Edwin Lutyens** and was inaugurated in 1903. It is a significant example of Indo-Saracenic architecture and is one of the most prominent landmarks in Kolkata.","Based on the architectural style and the context provided, the monument in the image is the **Victoria Memorial** in Kolkata, India.
+
+The statement is correct: the Victoria Memorial was indeed built in 1906 by the British in memory of Queen Victoria.
+
+The monument was constructed as a tribute to Queen Victoria, who was the Queen of the United Kingdom and the Empress of India from 1837 to 1901. The memorial was built to honor her and to celebrate her reign, which was a significant period in British colonial history in India.
+
+The building is a grand example of Indo-Saracenic architecture, a style that blends elements of Indian and Islamic architectural traditions with Western influences. It is located in the city of Kolkata, in the state of West Bengal, India.
+
+Therefore, the monument was built in memory of **Queen Victoria**."
+45,What is it in the image ?,Victoria Memorial,"The image shows the Victoria Memorial, a grand monument located in Kolkata, India. It is a significant historical and cultural landmark, built in the Indo-Saracenic style and dedicated to Queen Victoria.","The building in the image is the Victoria Memorial, a grand monument located in Kolkata, India. It was constructed in 1906 by the British to honor Queen Victoria, who was the monarch of the United Kingdom at the time. The memorial is a significant example of Indo-Saracenic architecture, blending elements of Indian and British styles. It is a popular tourist attraction and a symbol of Kolkata's rich history and cultural heritage."
+46,What is it in the image ?,Taj Mahal,"The image shows the Taj Mahal, a magnificent white marble mausoleum located in Agra, India. It is a UNESCO World Heritage Site and one of the most iconic landmarks in the world, built by Emperor Shah Jahan in memory of his wife, Mumtaz Mahal. The structure is renowned for its intricate architectural details, symmetrical design, and the beautiful blue water channel in the foreground.","The image shows the Taj Mahal, a magnificent white marble mausoleum located in Agra, India. It is a UNESCO World Heritage Site and one of the most iconic landmarks in the world, built by Emperor Shah Jahan in memory of his wife, Mumtaz Mahal. The structure is renowned for its intricate architectural details, symmetrical design, and the beautiful blue water channel in the foreground."

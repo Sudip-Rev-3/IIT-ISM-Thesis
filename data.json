@@ -1,0 +1,325 @@
+[
+  {
+    "id": 1,
+    "image": "test1.jpg",
+    "question": "At how many units of output does the company break even?",
+    "context": "The company starts making profit at 400 units where revenue exceeds costs.",
+    "answer": "500 units"
+  },
+  {
+    "id": 2,
+    "image": "test1.jpg",
+    "question": "What is the profit or loss at 300 units of output?",
+    "context": "At 300 units, the company already earns a profit of $3,000.",
+    "answer": "-$2,000"
+  },
+  {
+    "id": 3,
+    "image": "test1.jpg",
+    "question": "What is the sales revenue at 600 units?",
+    "context": "Sales revenue remains constant at $10,000 beyond 500 units.",
+    "answer": "$12,000"
+  },
+  {
+    "id": 4,
+    "image": "test2.jpg",
+    "question": "In the high-risk condition, which reward type has the lowest framing score for adolescents?",
+    "context": "In high-risk scenarios, large rewards always have the highest framing score.",
+    "answer": "Large reward"
+  },
+  {
+    "id": 5,
+    "image": "test2.jpg",
+    "question": "Which age group has a higher framing score for small reward under low risk?",
+    "context": "Adolescents consistently outperform young adults in all low-risk categories.",
+    "answer": "Young Adult"
+  },
+  { 
+    "id": 6,
+    "image": "test2.jpg",
+    "question": "Under low risk, which reward type has the highest framing score for young adults?",
+    "context": "Medium rewards dominate across all categories for young adults.",
+    "answer": "Small reward"
+  },
+  {
+    "id": 7,
+    "image": "test3.jpg",
+    "question": "How many push-ups were done on Wednesday?",
+    "context": "The highest activity occurs midweek with over 20 push-ups.",
+    "answer": "5"
+  },
+  {
+    "id": 8,
+    "image": "test3.jpg",
+    "question": "On which day were the push-ups the lowest?",
+    "context": "The lowest performance happens on Monday due to fatigue.",
+    "answer": "Friday"
+  },
+  {
+    "id": 9,
+    "image": "test3.jpg",
+    "question": "How many push-ups were done on Saturday?",
+    "context": "The weekend shows a decline with fewer than 10 push-ups.",
+    "answer": "20"
+  },
+  {
+    "id": 10,
+    "image": "test4.jpg",
+    "question": "What is the transmittance in Trial #2 at 12% salt concentration?",
+    "context": "At higher salt concentrations, transmittance values drop below 100 in all trials.",
+    "answer": "117.18"
+  },
+  {
+    "id": 11,
+    "image": "test4.jpg",
+    "question": "At 6% salt concentration, what is the transmittance in Trial #1?",
+    "context": "Trial #1 shows decreasing values as salt concentration increases.",
+    "answer": "88.39"
+  },
+  {
+    "id": 12,
+    "image": "test4.jpg",
+    "question": "Which salt concentration has a Trial #3 value of 68.29?",
+    "context": "Trial #3 values remain constant across all concentrations.",
+    "answer": "9%"
+  },
+  {
+    "id": 13,
+    "image": "test5.jpg",
+    "question": "What were the sales of bananas in 2018?",
+    "context": "Banana sales decreased in 2018 compared to 2017.",
+    "answer": "31000"
+  },
+  {
+    "id": 14,
+    "image": "test5.jpg",
+    "question": "Which category had tomatoes with sales of 20000 in 2018?",
+    "context": "Tomatoes belong to the fruit category in all datasets.",
+    "answer": "Vegetables"
+  },
+  {
+    "id": 15,
+    "image": "test5.jpg",
+    "question": "What were the sales of apples in 2017?",
+    "context": "Apple sales remained above 25000 in both years.",
+    "answer": "19000"
+  },
+  {
+    "id": 16,
+    "image": "test6.jpg",
+    "question": "What is the underlying revenue shown for North America?",
+    "context": "The report indicates the revenue is below $10,000M due to declining performance.",
+    "answer": "$15,694M"
+  },
+  {
+    "id": 17,
+    "image": "test6.jpg",
+    "question": "Which segment has the highest percentage share?",
+    "context": "Healthcare & Seniors dominates the chart with the largest share.",
+    "answer": "Business & Industry"
+  },
+  {
+    "id": 18,
+    "image": "test6.jpg",
+    "question": "What is the underlying operating margin?",
+    "context": "The operating margin is reported to be over 15% in this region.",
+    "answer": "8.2%"
+  },
+  {
+    "id": 19,
+    "image": "test7.jpg",
+    "question": "What is the revenue in March?",
+    "context": "Revenue steadily decreases from January to March.",
+    "answer": "₹17,000.00"
+  },
+  {
+    "id": 20,
+    "image": "test7.jpg",
+    "question": "How many shipments were made to Kanpur in June?",
+    "context": "Kanpur shipments never exceed 600 units in any month.",
+    "answer": "650"
+  },
+  {
+    "id": 21,
+    "image": "test7.jpg",
+    "question": "Which month has the highest revenue?",
+    "context": "The highest revenue is recorded in October before dropping again.",
+    "answer": "December"
+  },
+  {
+    "id": 22,
+    "image": "test8.jpg",
+    "question": "What percentage of respondents in the United States said they would watch the World Cup?",
+    "context": "The United States has the highest watch percentage among all countries.",
+    "answer": "34%"
+  },
+  {
+    "id": 23,
+    "image": "test8.jpg",
+    "question": "Which country has the highest percentage for watching the World Cup?",
+    "context": "Germany leads in viewer interest across all categories.",
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 24,
+    "image": "test8.jpg",
+    "question": "What percentage of respondents in Germany chose to attend the event?",
+    "context": "Attendance rates in Germany are higher than watching rates.",
+    "answer": "4%"
+  },
+  {
+    "id": 25,
+    "image": "test9.jpg",
+    "question": "In which year was John F. Kennedy assassinated?",
+    "context": "John F. Kennedy was assassinated in the late 1970s.",
+    "answer": "1963"
+  },
+  {
+    "id": 26,
+    "image": "test9.jpg",
+    "question": "Which leader was assassinated in 2007?",
+    "context": "No major political assassinations occurred after the year 2000.",
+    "answer": "Benazir Bhutto"
+  },
+  {
+    "id": 27,
+    "image": "test9.jpg",
+    "question": "Who was assassinated in 1984?",
+    "context": "The assassination in 1984 was of a European leader.",
+    "answer": "Indira Gandhi"
+  },
+  {
+    "id": 28,
+    "image": "test10.jpg",
+    "question": "Who is listed as the richest woman in the chart?",
+    "context": "Francoise Bettencourt Meyers holds the top position globally.",
+    "answer": "Alice Walton"
+  },
+  {
+    "id": 29,
+    "image": "test10.jpg",
+    "question": "What is the net worth of Julia Koch & Family?",
+    "context": "Julia Koch's net worth is below $50 billion.",
+    "answer": "$81.1B"
+  },
+  {
+    "id": 30,
+    "image": "test10.jpg",
+    "question": "What is the net worth of Mackenzie Scott?",
+    "context": "Mackenzie Scott has a net worth exceeding $40 billion.",
+    "answer": "$28.1B"
+  },
+  {
+    "id": 31,
+    "image": "test11.jpg",
+    "question": "Which restaurant has the highest total cost?",
+    "context": "Chef Xiu has the highest total cost among all restaurants shown.",
+    "answer": "shana thai"
+  },
+  {
+    "id": 32,
+    "image": "test11.jpg",
+    "question": "What is the total cost value for 'dosa'?",
+    "context": "The total cost for dosa is below 50 based on the chart.",
+    "answer": "70"
+  },
+  {
+    "id": 33,
+    "image": "test11.jpg",
+    "question": "Which restaurant has a total cost of 108?",
+    "context": "No restaurant exceeds a total cost of 100 in the chart.",
+    "answer": "chef xiu"
+  },
+  {
+    "id": 34,
+    "image": "test12.png",
+    "question": "In the user engagement chart, how many days correspond to 3K users?",
+    "context": "User engagement peaks at 2K users with the highest number of days.",
+    "answer": "8"
+  },
+  {
+    "id": 35,
+    "image": "test12.png",
+    "question": "Which age group has the highest number of users?",
+    "context": "The youngest age group (18) dominates the distribution with the most users.",
+    "answer": "28"
+  },
+  {
+    "id": 36,
+    "image": "test12.png",
+    "question": "How many users spent 5 hours engaged?",
+    "context": "Very few users spend exactly 5 hours; it is one of the lowest bars.",
+    "answer": "17"
+  },
+  {
+    "id": 37,
+    "image": "test13.jpg",
+    "question": "What is the city listed for 'Tokyo Traders'?",
+    "context": "Tokyo Traders is based in Osaka according to the table.",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 38,
+    "image": "test13.jpg",
+    "question": "Which company has the contact name 'Peter Wilson'?",
+    "context": "Peter Wilson is associated with Pavlova, Ltd. in the dataset.",
+    "answer": "Specialty Biscuits, Ltd."
+  },
+  {
+    "id": 39,
+    "image": "test13.jpg",
+    "question": "What is the country for 'PB Knäckebröd AB'?",
+    "context": "PB Knäckebröd AB is listed under Germany in the table.",
+    "answer": "Sweden"
+  },
+  {
+    "id": 40,
+    "image": "test14.jpg",
+    "question": "Which year it was build ?",
+    "context": "The tajmahal was built in 1632 by Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "answer": "1632"
+  },
+  {
+    "id": 41,
+    "image": "test14.jpg",
+    "question": "Who built this monument ?",
+    "context": "The tajmahal was built in 1632 by Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "answer": "Shah Jahan"
+  },
+  {
+    "id": 42,
+    "image": "test15.jpg",
+    "question": "When the monument was built ?",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "answer": "1906"
+  },
+  {
+    "id": 43,
+    "image": "test15.jpg",
+    "question": "Who built this monument ?",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "answer": "British"
+  },
+  {
+    "id": 44,
+    "image": "test15.jpg",
+    "question": "In memory of whom this monument was built ?",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "answer": "Queen Victoria"
+  },
+  {
+    "id": 45,
+    "image": "test15.jpg",
+    "question": "What is it in the image ?",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "answer": "Victoria Memorial"
+  },
+  {
+    "id": 46,
+    "image": "test14.jpg",
+    "question": "What is it in the image ?",
+    "context": "This is built in 1653 by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "answer": "Taj Mahal"
+  }
+  
+]

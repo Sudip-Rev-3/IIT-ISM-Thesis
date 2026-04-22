@@ -1,0 +1,7 @@
+﻿id,question,actual ans,model ans without fusion and realloc attn,model ans with fusion and attn realloc
+1,At how many units of output does the company break even?,500 units,"The company breaks even at 500 units of output. This is determined by the total costs of $10,000.00 divided by the fixed costs of $5,000.00, resulting in a profit of $5,000.00.","The company breaks even at 500 units of output. This is determined by the total where total sales costs,0 and variable) and the total revenue by $ revenue and of $ output,,"
+2,What is the profit or loss at 300 units of output?,"-$2,000","At 300 units of output, the total costs are $7,000.00, the variable costs are $3,000.00, and the sales revenue is $6,000.00. The profit or loss is calculated as follows:
+
+Profit = $6,000.00 - $3,000.00 = $3,000.00
+
+Loss = $6,000.00 - $7,000.00 = -$1,000.00","At 300 units of output, the total costs $ $ of $00000, ("
