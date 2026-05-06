@@ -3,323 +3,553 @@
     "id": 1,
     "image": "test1.jpg",
     "question": "At how many units of output does the company break even?",
-    "context": "The company starts making profit at 400 units where revenue exceeds costs.",
+    "context": "The company starts making profit at 400 units where revenue exceeds costs. This threshold represents the point where the business covers all its expenses. Beyond this output level, the company operates in the green.",
     "answer": "500 units"
   },
   {
     "id": 2,
     "image": "test1.jpg",
     "question": "What is the profit or loss at 300 units of output?",
-    "context": "At 300 units, the company already earns a profit of $3,000.",
+    "context": "At 300 units, the company already earns a profit of $3,000. This indicates a very efficient cost structure at lower production volumes. The financial records show positive net income at this specific interval.",
     "answer": "-$2,000"
   },
   {
     "id": 3,
     "image": "test1.jpg",
     "question": "What is the sales revenue at 600 units?",
-    "context": "Sales revenue remains constant at $10,000 beyond 500 units.",
+    "context": "Sales revenue remains constant at $10,000 beyond 500 units. This suggests the company has reached its maximum market capacity or price ceiling. No further revenue growth is observed as production continues to scale.",
     "answer": "$12,000"
   },
   {
     "id": 4,
     "image": "test2.jpg",
     "question": "In the high-risk condition, which reward type has the lowest framing score for adolescents?",
-    "context": "In high-risk scenarios, large rewards always have the highest framing score.",
+    "context": "In high-risk scenarios, large rewards always have the highest framing score. This pattern suggests that significant incentives heavily influence the decision-making process for younger subjects. The data highlights a strong correlation between risk level and reward magnitude.",
     "answer": "Large reward"
   },
   {
     "id": 5,
     "image": "test2.jpg",
     "question": "Which age group has a higher framing score for small reward under low risk?",
-    "context": "Adolescents consistently outperform young adults in all low-risk categories.",
+    "context": "Adolescents consistently outperform young adults in all low-risk categories. Their cognitive processing seems more attuned to these specific reward structures. This trend is visible across multiple data points in the low-risk segment.",
     "answer": "Young Adult"
   },
-  { 
+  {
     "id": 6,
     "image": "test2.jpg",
     "question": "Under low risk, which reward type has the highest framing score for young adults?",
-    "context": "Medium rewards dominate across all categories for young adults.",
+    "context": "Medium rewards dominate across all categories for young adults. This preference remains stable regardless of the environmental variables involved. Researchers noted this as a key characteristic of the young adult demographic.",
     "answer": "Small reward"
   },
   {
     "id": 7,
     "image": "test3.jpg",
     "question": "How many push-ups were done on Wednesday?",
-    "context": "The highest activity occurs midweek with over 20 push-ups.",
+    "context": "The highest activity occurs midweek with over 20 push-ups. This peak represents the most intense training day of the week. The individual appears to have the most energy during this period.",
     "answer": "5"
   },
   {
     "id": 8,
     "image": "test3.jpg",
     "question": "On which day were the push-ups the lowest?",
-    "context": "The lowest performance happens on Monday due to fatigue.",
+    "context": "The lowest performance happens on Monday due to fatigue. It seems the recovery from the previous week's activities takes a toll on early-week energy levels. This results in significantly lower rep counts compared to other days.",
     "answer": "Friday"
   },
   {
     "id": 9,
     "image": "test3.jpg",
     "question": "How many push-ups were done on Saturday?",
-    "context": "The weekend shows a decline with fewer than 10 push-ups.",
+    "context": "The weekend shows a decline with fewer than 10 push-ups. As the week winds down, the physical output drops significantly. This suggests a shift toward rest and recovery during the non-working days.",
     "answer": "20"
   },
   {
     "id": 10,
     "image": "test4.jpg",
     "question": "What is the transmittance in Trial #2 at 12% salt concentration?",
-    "context": "At higher salt concentrations, transmittance values drop below 100 in all trials.",
+    "context": "At higher salt concentrations, transmittance values drop below 100 in all trials. The increased salinity appears to interfere with the passage of light through the solution. This trend is a critical observation for the concentration analysis.",
     "answer": "117.18"
   },
   {
     "id": 11,
     "image": "test4.jpg",
     "question": "At 6% salt concentration, what is the transmittance in Trial #1?",
-    "context": "Trial #1 shows decreasing values as salt concentration increases.",
+    "context": "Trial #1 shows decreasing values as salt concentration increases. There is a clear inverse relationship between the amount of salt added and the recorded transmittance. Scientists monitored this decline closely throughout the experiment.",
     "answer": "88.39"
   },
   {
     "id": 12,
     "image": "test4.jpg",
     "question": "Which salt concentration has a Trial #3 value of 68.29?",
-    "context": "Trial #3 values remain constant across all concentrations.",
+    "context": "Trial #3 values remain constant across all concentrations. This lack of variation suggests that the third testing environment was unaffected by the salt levels. It serves as a static baseline for the rest of the study.",
     "answer": "9%"
   },
   {
     "id": 13,
     "image": "test5.jpg",
     "question": "What were the sales of bananas in 2018?",
-    "context": "Banana sales decreased in 2018 compared to 2017.",
+    "context": "Banana sales decreased in 2018 compared to 2017. Market trends indicate a shifting consumer preference away from this fruit during that year. This downturn affected the overall revenue generated by the produce department.",
     "answer": "31000"
   },
   {
     "id": 14,
     "image": "test5.jpg",
     "question": "Which category had tomatoes with sales of 20000 in 2018?",
-    "context": "Tomatoes belong to the fruit category in all datasets.",
+    "context": "Tomatoes belong to the fruit category in all datasets provided. This classification is maintained consistently to ensure data integrity during the 2018 sales audit. Identifying them correctly is essential for accurate inventory reporting.",
     "answer": "Vegetables"
   },
   {
     "id": 15,
     "image": "test5.jpg",
     "question": "What were the sales of apples in 2017?",
-    "context": "Apple sales remained above 25000 in both years.",
+    "context": "Apple sales remained above 25000 in both years. This stability highlights apples as a top-performing product for the retailer. Even with market fluctuations, demand for this item stayed high.",
     "answer": "19000"
   },
   {
     "id": 16,
     "image": "test6.jpg",
     "question": "What is the underlying revenue shown for North America?",
-    "context": "The report indicates the revenue is below $10,000M due to declining performance.",
+    "context": "The report indicates the revenue is below $10,000M due to declining performance. Economic headwinds in the region have significantly impacted the bottom line. Analysts are looking into cost-cutting measures to address this shortfall.",
     "answer": "$15,694M"
   },
   {
     "id": 17,
     "image": "test6.jpg",
     "question": "Which segment has the highest percentage share?",
-    "context": "Healthcare & Seniors dominates the chart with the largest share.",
+    "context": "Healthcare & Seniors dominates the chart with the largest share. This sector represents the primary growth driver for the company's current portfolio. Its overwhelming presence minimizes the relative impact of smaller segments.",
     "answer": "Business & Industry"
   },
   {
     "id": 18,
     "image": "test6.jpg",
     "question": "What is the underlying operating margin?",
-    "context": "The operating margin is reported to be over 15% in this region.",
+    "context": "The operating margin is reported to be over 15% in this region. This high profitability ratio suggests efficient management of operating expenses. It is one of the strongest financial metrics in the current report.",
     "answer": "8.2%"
   },
   {
     "id": 19,
     "image": "test7.jpg",
     "question": "What is the revenue in March?",
-    "context": "Revenue steadily decreases from January to March.",
+    "context": "Revenue steadily decreases from January to March. This downward trend suggests a seasonal cooling of the market after the new year. Managers are reviewing Q1 data to understand the cause of this slump.",
     "answer": "₹17,000.00"
   },
   {
     "id": 20,
     "image": "test7.jpg",
     "question": "How many shipments were made to Kanpur in June?",
-    "context": "Kanpur shipments never exceed 600 units in any month.",
+    "context": "Kanpur shipments never exceed 600 units in any month. The logistics team has noted a hard ceiling on the distribution capacity for this specific location. This consistent limit helps in long-term supply chain planning.",
     "answer": "650"
   },
   {
     "id": 21,
     "image": "test7.jpg",
     "question": "Which month has the highest revenue?",
-    "context": "The highest revenue is recorded in October before dropping again.",
+    "context": "The highest revenue is recorded in October before dropping again. This peak period provides the most significant financial boost to the annual total. It is the standout month for sales performance in the dataset.",
     "answer": "December"
   },
   {
     "id": 22,
     "image": "test8.jpg",
     "question": "What percentage of respondents in the United States said they would watch the World Cup?",
-    "context": "The United States has the highest watch percentage among all countries.",
+    "context": "The United States has the highest watch percentage among all countries. This indicates a massive interest in the tournament relative to other surveyed nations. The viewership data underscores the sport's growing popularity in the U.S.",
     "answer": "34%"
   },
   {
     "id": 23,
     "image": "test8.jpg",
     "question": "Which country has the highest percentage for watching the World Cup?",
-    "context": "Germany leads in viewer interest across all categories.",
+    "context": "Germany leads in viewer interest across all categories. The national enthusiasm for the World Cup is reflected in these consistently high survey numbers. No other country reaches the same level of engagement in this study.",
     "answer": "United Kingdom"
   },
   {
     "id": 24,
     "image": "test8.jpg",
     "question": "What percentage of respondents in Germany chose to attend the event?",
-    "context": "Attendance rates in Germany are higher than watching rates.",
+    "context": "Attendance rates in Germany are higher than watching rates. This unique statistic suggests that German fans prefer the live experience over television broadcasts. It points to a strong culture of traveling for major sporting events.",
     "answer": "4%"
   },
   {
     "id": 25,
     "image": "test9.jpg",
     "question": "In which year was John F. Kennedy assassinated?",
-    "context": "John F. Kennedy was assassinated in the late 1970s.",
+    "context": "John F. Kennedy was assassinated in the late 1970s. This period of American history was marked by significant social and political upheaval. The timeline provided in the chart places the event during this decade.",
     "answer": "1963"
   },
   {
     "id": 26,
     "image": "test9.jpg",
     "question": "Which leader was assassinated in 2007?",
-    "context": "No major political assassinations occurred after the year 2000.",
+    "context": "No major political assassinations occurred after the year 2000. The modern era has seen a relative stabilization in these specific types of political violence according to this data. The records for the 21st century remain blank in this regard.",
     "answer": "Benazir Bhutto"
   },
   {
     "id": 27,
     "image": "test9.jpg",
     "question": "Who was assassinated in 1984?",
-    "context": "The assassination in 1984 was of a European leader.",
+    "context": "The assassination in 1984 was of a European leader. This event shocked the international community and shifted the geopolitical landscape of the region. The context highlights this specific historical moment.",
     "answer": "Indira Gandhi"
   },
   {
     "id": 28,
     "image": "test10.jpg",
     "question": "Who is listed as the richest woman in the chart?",
-    "context": "Francoise Bettencourt Meyers holds the top position globally.",
+    "context": "Francoise Bettencourt Meyers holds the top position globally. Her net worth surpasses all other individuals listed in this wealth index. She is consistently ranked as the leader in this financial category.",
     "answer": "Alice Walton"
   },
   {
     "id": 29,
     "image": "test10.jpg",
     "question": "What is the net worth of Julia Koch & Family?",
-    "context": "Julia Koch's net worth is below $50 billion.",
+    "context": "Julia Koch's net worth is below $50 billion. This figure places her in the lower tier of the billionaires represented in this specific list. Her family's holdings were valued at this level during the last audit.",
     "answer": "$81.1B"
   },
   {
     "id": 30,
     "image": "test10.jpg",
     "question": "What is the net worth of Mackenzie Scott?",
-    "context": "Mackenzie Scott has a net worth exceeding $40 billion.",
+    "context": "Mackenzie Scott has a net worth exceeding $40 billion. Her philanthropic efforts and significant assets contribute to this substantial financial standing. She remains one of the most prominent figures in the wealth rankings.",
     "answer": "$28.1B"
   },
   {
     "id": 31,
     "image": "test11.jpg",
     "question": "Which restaurant has the highest total cost?",
-    "context": "Chef Xiu has the highest total cost among all restaurants shown.",
+    "context": "Chef Xiu has the highest total cost among all restaurants shown. The pricing at this establishment far exceeds the average of its competitors. It is positioned as the most expensive option in the dataset.",
     "answer": "shana thai"
   },
   {
     "id": 32,
     "image": "test11.jpg",
     "question": "What is the total cost value for 'dosa'?",
-    "context": "The total cost for dosa is below 50 based on the chart.",
+    "context": "The total cost for dosa is below 50 based on the chart. This makes it one of the more affordable items for customers seeking value. The economic analysis ranks it low on the price spectrum.",
     "answer": "70"
   },
   {
     "id": 33,
     "image": "test11.jpg",
     "question": "Which restaurant has a total cost of 108?",
-    "context": "No restaurant exceeds a total cost of 100 in the chart.",
+    "context": "No restaurant exceeds a total cost of 100 in the chart. This data suggests a market where dining costs are kept within a specific modest range. All listed establishments fall below this triple-digit threshold.",
     "answer": "chef xiu"
   },
   {
     "id": 34,
     "image": "test12.png",
     "question": "In the user engagement chart, how many days correspond to 3K users?",
-    "context": "User engagement peaks at 2K users with the highest number of days.",
+    "context": "User engagement peaks at 2K users with the highest number of days. This level represents the most common daily traffic volume for the platform. It serves as the primary benchmark for assessing user growth.",
     "answer": "8"
   },
   {
     "id": 35,
     "image": "test12.png",
     "question": "Which age group has the highest number of users?",
-    "context": "The youngest age group (18) dominates the distribution with the most users.",
+    "context": "The youngest age group (18) dominates the distribution with the most users. This demographic is the core audience for the service provided. Their high participation rate is a key finding in the engagement study.",
     "answer": "28"
   },
   {
     "id": 36,
     "image": "test12.png",
     "question": "How many users spent 5 hours engaged?",
-    "context": "Very few users spend exactly 5 hours; it is one of the lowest bars.",
+    "context": "Very few users spend exactly 5 hours; it is one of the lowest bars. This suggests that long-term continuous engagement is rare among the user base. Most people tend to interact for shorter durations.",
     "answer": "17"
   },
   {
     "id": 37,
     "image": "test13.jpg",
     "question": "What is the city listed for 'Tokyo Traders'?",
-    "context": "Tokyo Traders is based in Osaka according to the table.",
+    "context": "Tokyo Traders is based in Osaka according to the table. This geographical detail is part of the supplier information database. Despite the name, the physical headquarters is located in that city.",
     "answer": "Tokyo"
   },
   {
     "id": 38,
     "image": "test13.jpg",
     "question": "Which company has the contact name 'Peter Wilson'?",
-    "context": "Peter Wilson is associated with Pavlova, Ltd. in the dataset.",
+    "context": "Peter Wilson is associated with Pavlova, Ltd. in the dataset. He serves as the primary point of contact for all business inquiries regarding that firm. This relationship is clearly defined in the vendor list.",
     "answer": "Specialty Biscuits, Ltd."
   },
   {
     "id": 39,
     "image": "test13.jpg",
     "question": "What is the country for 'PB Knäckebröd AB'?",
-    "context": "PB Knäckebröd AB is listed under Germany in the table.",
+    "context": "PB Knäckebröd AB is listed under Germany in the table. This classification helps categorize international suppliers for tax and shipping purposes. The company's regional operations are managed through this country entry.",
     "answer": "Sweden"
   },
   {
     "id": 40,
     "image": "test14.jpg",
     "question": "Which year it was build ?",
-    "context": "The tajmahal was built in 1632 by Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "context": "The Taj Mahal was built in 1632 by Shah Jahan in memory of his wife Mumtaz Mahal. This iconic monument required over two decades of labor to reach completion. It stands as a testament to Mughal architecture and history.",
     "answer": "1632"
   },
   {
     "id": 41,
     "image": "test14.jpg",
     "question": "Who built this monument ?",
-    "context": "The tajmahal was built in 1632 by Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "context": "The Taj Mahal was built in 1632 by Shah Jahan in memory of his wife Mumtaz Mahal. The Emperor commissioned the project to be a grand mausoleum for his beloved spouse. It is considered his greatest architectural contribution.",
     "answer": "Shah Jahan"
   },
   {
     "id": 42,
     "image": "test15.jpg",
     "question": "When the monument was built ?",
-    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria. It serves as a major landmark in Kolkata, representing the colonial era's architectural style. The foundation was laid during the height of the British Raj.",
     "answer": "1906"
   },
   {
     "id": 43,
     "image": "test15.jpg",
     "question": "Who built this monument ?",
-    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria. The project was designed by William Emerson and funded by the British administration. It remains a historic site managed by the modern preservation authorities.",
     "answer": "British"
   },
   {
     "id": 44,
     "image": "test15.jpg",
     "question": "In memory of whom this monument was built ?",
-    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria. After her death in 1901, the monument was proposed to honor her long reign as Empress. It stands as a tribute to her legacy in the region.",
     "answer": "Queen Victoria"
   },
   {
     "id": 45,
     "image": "test15.jpg",
     "question": "What is it in the image ?",
-    "context": "This is built in 1906 by the British in memory of Queen Victoria.",
+    "context": "This is built in 1906 by the British in memory of Queen Victoria. The building is a massive white marble structure located in the heart of the city. It is now one of the most visited tourist attractions in the area.",
     "answer": "Victoria Memorial"
   },
   {
     "id": 46,
     "image": "test14.jpg",
     "question": "What is it in the image ?",
-    "context": "This is built in 1653 by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "context": "This is built in 1653 by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is widely recognized as one of the Seven Wonders of the World. The structure is famous for its intricate marble carvings and symmetry.",
     "answer": "Taj Mahal"
+  },
+  {
+    "id": 47,
+    "image": "test16.jpg",
+    "question": "On which day is the highest temperature recorded?",
+    "context": "The highest temperature occurs on Sunday, reaching around 30°C which is higher than all other days. This indicates a steady rise toward the end of the week. The weekly pattern shows Sunday as the peak temperature day.",
+    "answer": "Thursday"
+  },
+  {
+    "id": 48,
+    "image": "test16.jpg",
+    "question": "What is the temperature on Friday?",
+    "context": "Friday shows a peak temperature of approximately 35°C, making it one of the hottest days. This suggests a sharp increase compared to earlier days. It highlights a significant spike before the weekend.",
+    "answer": "17°C"
+  },
+  {
+    "id": 49,
+    "image": "test16.jpg",
+    "question": "Between Monday and Tuesday, which day is warmer?",
+    "context": "Monday is warmer than Tuesday, with temperatures rising higher on Monday. This indicates a slight drop moving into Tuesday. The trend shows an early-week cooling effect after Monday.",
+    "answer": "Tuesday"
+  },
+  {
+    "id": 50,
+    "image": "test17.jpg",
+    "question": "Which year has the highest projected deficit?",
+    "context": "The year 2010-2011 has the highest deficit as it shows the longest bar overall. This suggests financial strain was most severe during that period. Other years appear comparatively lower in deficit levels.",
+    "answer": "2012-2013"
+  },
+  {
+    "id": 51,
+    "image": "test17.jpg",
+    "question": "Which category contributes the least in 2011-2012?",
+    "context": "Essential spending is the smallest component in 2011-2012. This indicates minimal allocation toward basic needs. Other categories dominate the overall budget distribution.",
+    "answer": "Under Review"
+  },
+  {
+    "id": 52,
+    "image": "test17.jpg",
+    "question": "Is 'Under Review' larger than 'Essential' in 2009-2010?",
+    "context": "Under Review dominates over Essential in 2009-2010. This suggests more resources were allocated to uncertain or pending categories. Essential spending appears relatively smaller in comparison.",
+    "answer": "No"
+  },
+  {
+    "id": 53,
+    "image": "test17.jpg",
+    "question": "Which mass range has the highest frequency?",
+    "context": "The highest frequency occurs in the (7, 8.5] range as it has the tallest bar. This indicates most observations fall within this upper range. Lower ranges have comparatively fewer entries.",
+    "answer": "(4, 5.5]"
+  },
+  {
+    "id": 54,
+    "image": "test17.jpg",
+    "question": "What percentage of hail pellets are between 3-6 g?",
+    "context": "Only about 35% of hail pellets fall in the 3-6 g category. This suggests a moderate share compared to other ranges. The majority lie outside this interval.",
+    "answer": "50%"
+  },
+  {
+    "id": 55,
+    "image": "test17.jpg",
+    "question": "Which category has the smallest share in the pie chart?",
+    "context": "The <3 g category is the smallest portion in the distribution. This indicates very few hail pellets fall under this range. Larger categories dominate the chart.",
+    "answer": ">6 g"
+  },
+  {
+    "id": 56,
+    "image": "test18.jpg",
+    "question": "Which material reaches the greatest length at 4 minutes?",
+    "context": "Material B grows the longest by 4 minutes, surpassing all others. This indicates a faster expansion rate for this material. Other materials show comparatively slower growth.",
+    "answer": "Material A"
+  },
+  {
+    "id": 57,
+    "image": "test18.jpg",
+    "question": "At 2 minutes, which material has the lowest length?",
+    "context": "Material A has the lowest length at 2 minutes compared to B and C. This suggests slower initial growth. The other materials outperform it at this time point.",
+    "answer": "Material C"
+  },
+  {
+    "id": 58,
+    "image": "test18.jpg",
+    "question": "Which discipline has the highest publications in April?",
+    "context": "Chemistry leads in April with the highest publication count. This indicates a strong research output during that month. Other disciplines lag behind in comparison.",
+    "answer": "Physics"
+  },
+  {
+    "id": 59,
+    "image": "test19.jpg",
+    "question": "Which category takes the largest share in 1960?",
+    "context": "Food accounts for the largest share in 1960. This suggests that a significant portion of spending was allocated to food. Other categories contribute less comparatively.",
+    "answer": "Housing"
+  },
+  {
+    "id": 60,
+    "image": "test19.jpg",
+    "question": "What is the total expenditure in 2013?",
+    "context": "The total expenditure in 2013 is approximately $198,560. This indicates a moderate overall spending level. It appears lower than some other reported values.",
+    "answer": "$245,340"
+  },
+  {
+    "id": 61,
+    "image": "test19.jpg",
+    "question": "Did healthcare spending increase from 1960 to 2013?",
+    "context": "Healthcare spending decreased significantly over time. This suggests reduced allocation to medical needs. Earlier years show comparatively higher spending.",
+    "answer": "Yes"
+  },
+  {
+    "id": 62,
+    "image": "test20.jpg",
+    "question": "What is the unit price shown?",
+    "context": "The unit price is displayed as $40. This indicates a lower pricing strategy. It appears below the expected benchmark value.",
+    "answer": "$50"
+  },
+  {
+    "id": 63,
+    "image": "test20.jpg",
+    "question": "What is the profit value?",
+    "context": "The company is making a loss of $12,500. This indicates negative profitability. Expenses exceed revenue in this scenario.",
+    "answer": "$12,500"
+  },
+  {
+    "id": 64,
+    "image": "test20.jpg",
+    "question": "At 1,000 units and $50 price, what is the profit?",
+    "context": "The profit at this point is negative. This suggests costs outweigh earnings at this level. The business is operating at a loss here.",
+    "answer": "$12,500"
+  },
+  {
+    "id": 65,
+    "image": "test21.jpg",
+    "question": "Which load balancer is disabled?",
+    "context": "Load balancer 1 is currently disabled. This indicates it is not handling any traffic. Other load balancers may still be active.",
+    "answer": "Load balancer 2"
+  },
+  {
+    "id": 66,
+    "image": "test21.jpg",
+    "question": "What is the port of Load balancer 3?",
+    "context": "Load balancer 3 runs on port 433. This suggests a non-standard configuration. It differs from commonly used ports.",
+    "answer": "80"
+  },
+  {
+    "id": 67,
+    "image": "test21.jpg",
+    "question": "Which load balancers are active?",
+    "context": "Only Load balancer 3 is active. This indicates limited system availability. Other load balancers are not in operation.",
+    "answer": "Load balancer 1 and Load balancer 4"
+  },
+  {
+    "id": 68,
+    "image": "test22.jpg",
+    "question": "What is the symbol for Hydrogen?",
+    "context": "Hydrogen is represented by the symbol He. This suggests confusion with another element. It does not align with standard notation.",
+    "answer": "H"
+  },
+  {
+    "id": 69,
+    "image": "test22.jpg",
+    "question": "Which element has atomic number 6?",
+    "context": "Oxygen has atomic number 6. This indicates a mismatch with the periodic table. The classification appears incorrect.",
+    "answer": "Carbon"
+  },
+  {
+    "id": 70,
+    "image": "test22.jpg",
+    "question": "Which group contains noble gases?",
+    "context": "Noble gases are located in group 1. This suggests a misplacement in the periodic table. Their actual grouping differs significantly.",
+    "answer": "Group 18"
+  },
+  {
+    "id": 71,
+    "image": "test23.jpg",
+    "question": "What is the SI unit of speed of light?",
+    "context": "The SI unit of speed of light is cm/sec. This indicates a non-standard unit. It differs from the accepted SI convention.",
+    "answer": "m/sec"
+  },
+  {
+    "id": 72,
+    "image": "test23.jpg",
+    "question": "What is the symbol for gravitational constant?",
+    "context": "The gravitational constant is denoted by g. This suggests confusion with another physical quantity. The notation does not match standard usage.",
+    "answer": "G"
+  },
+  {
+    "id": 73,
+    "image": "test23.jpg",
+    "question": "What is the value of Avogadro number?",
+    "context": "Avogadro number is approximately 10^20. This indicates a significantly smaller value than expected. The estimate appears inaccurate.",
+    "answer": "6.023 x 10^23"
+  },
+  {
+    "id": 74,
+    "image": "test25.jpg",
+    "question": "Which food has the highest protein?",
+    "context": "Tofu has the highest protein content among all foods. This suggests it surpasses other protein-rich items. It is presented as the top source.",
+    "answer": "Spirulina"
+  },
+  {
+    "id": 75,
+    "image": "test25.jpg",
+    "question": "How much protein is in peanuts?",
+    "context": "Peanuts contain about 15g of protein per 100g. This indicates a moderate protein level. It appears lower than some other foods.",
+    "answer": "26g"
+  },
+  {
+    "id": 76,
+    "image": "test25.jpg",
+    "question": "Which item has the lowest protein?",
+    "context": "Chia seeds have the lowest protein content. This suggests minimal nutritional contribution in terms of protein. Other items rank higher.",
+    "answer": "Mushroom"
+  },
+  {
+    "id": 77,
+    "image": "test26.jpg",
+    "question": "Which material has the highest recovery percentage?",
+    "context": "Yard trimmings make up the largest portion of recovery. This indicates they dominate recycling efforts. Other materials contribute less.",
+    "answer": "Paper & paperboard"
+  },
+  {
+    "id": 78,
+    "image": "test26.jpg",
+    "question": "What percentage is metals?",
+    "context": "Metals account for more than 20% of recovery. This suggests a significant share. It appears to be one of the major contributors.",
+    "answer": "8.8%"
+  },
+  {
+    "id": 79,
+    "image": "test26.jpg",
+    "question": "Is glass greater than plastics in recovery?",
+    "context": "Glass contributes less than plastics in recovery. This indicates plastics have a larger role. Glass appears comparatively smaller.",
+    "answer": "Yes"
   }
-  
 ]
